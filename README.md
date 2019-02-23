@@ -4,7 +4,7 @@ This repository is for independent project on Recent Developments in Word Embedd
 **Find Papers:** [[ Tool ]](http://aipano.cse.ust.hk/p11/) created by Prof. Nevin Zhang
 
 # Schedule
-[Due 02/23/2019] 
-- [ ] Reading two papers ([P1](http://aclweb.org/anthology/P18-1073), [P2](http://aclweb.org/anthology/P18-1041))
-- [ ] Report my progress to Prof. Zhang
-- [ ] (Optional) Reimplement the experiments in the paper
+Due 02/23/2019
+- (Done) Reading two papers ([P1](http://aclweb.org/anthology/P18-1073), [P2](http://aclweb.org/anthology/P18-1041))
+- (Done) Report my progress to Prof. Zhang
+- (Optional) Reimplement the experiments in the paper
