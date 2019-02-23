@@ -6,7 +6,7 @@ This repository is for independent project on Recent Developments in Word Embedd
 # Schedule
 Due 02/28/2019
 - [ ] Write a project plan
-- [ ] Read two papers ([P1](http://www.aclweb.org/anthology/C14-1016), [P2](http://aclweb.org/anthology/P18-1002))
+- [ ] Read two papers ([P3](http://www.aclweb.org/anthology/C14-1016), [P4](http://aclweb.org/anthology/P18-1002))
 - [ ] (Optional) Reimplement the experiments in the paper
 
 Due 02/23/2019
