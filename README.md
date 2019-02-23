@@ -8,6 +8,7 @@ Due 02/28/2019
 - [ ] Write a project plan
 - [ ] Read two papers ([P3](http://www.aclweb.org/anthology/C14-1016), [P4](http://aclweb.org/anthology/P18-1002))
 - [ ] (Optional) Reimplement the experiments in the paper
+- [ ] (Optional) Read a paper ([P5](https://openreview.net/pdf?id=H1MgjoR9tQ))
 
 Due 02/23/2019
 - [x] Read two papers ([P1](http://aclweb.org/anthology/P18-1073), [P2](http://aclweb.org/anthology/P18-1041))
