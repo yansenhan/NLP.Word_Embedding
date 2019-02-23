@@ -5,6 +5,6 @@ This repository is for independent project on Recent Developments in Word Embedd
 
 # Schedule
 Due 02/23/2019
-- (Done) Reading two papers ([P1](http://aclweb.org/anthology/P18-1073), [P2](http://aclweb.org/anthology/P18-1041))
-- (Done) Report my progress to Prof. Zhang
-- (Optional) Reimplement the experiments in the paper
+- [x] Reading two papers ([P1](http://aclweb.org/anthology/P18-1073), [P2](http://aclweb.org/anthology/P18-1041))
+- [x] Report my progress to Prof. Zhang
+- [ ] (Optional) Reimplement the experiments in the paper
