@@ -22,4 +22,4 @@ Due 02/28/2019
 Due 02/23/2019
 - [x] Read two papers ([P1](http://aclweb.org/anthology/P18-1073), [P2](http://aclweb.org/anthology/P18-1041))
 - [x] Report my progress to Prof. Zhang
-- ~~[ ] (Optional) Reimplement the experiments in the paper~~
+- [ ] ~~(Optional) Reimplement the experiments in the paper~~
