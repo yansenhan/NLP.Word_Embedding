@@ -7,7 +7,8 @@ This repository is for independent project on Recent Developments in Word Embedd
 **Time Format: (DD/MM/YYYY)**
 
 Due 09/03/2019
-- [ ] Reimplement Skip-gram model and Glove model
+- [x] Reimplement Skip-gram model
+- [ ] Reimplement Glove model
 - [ ] Finish reading 4 papers (Possible Choises [P5](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9314/9535), [P6](https://arxiv.org/pdf/1507.01127.pdf%20http://arxiv.org/abs/1507.01127.pdf))
 
 Due 01/03/2019
