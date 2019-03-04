@@ -7,7 +7,7 @@ This repository is for independent project on Recent Developments in Word Embedd
 **Time Format: (DD/MM/YYYY)**
 
 Due 09/03/2019
-- [x] Reimplement Skip-gram model
+- [x] Reimplement Skip-gram model  ([Official Reference in Tensorflow](https://www.tensorflow.org/tutorials/representation/word2vec))
 - [ ] Reimplement Glove model
 - [ ] Finish reading 4 papers (Possible Choises [P5](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9314/9535), [P6](https://arxiv.org/pdf/1507.01127.pdf%20http://arxiv.org/abs/1507.01127.pdf), [P7](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16998/16114), [P8](http://aclweb.org/anthology/P18-1031), [P9](http://aclweb.org/anthology/D18-2029))
 
