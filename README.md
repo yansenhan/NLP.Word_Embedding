@@ -10,8 +10,7 @@ Due 09/03/2019
 - [x] Reimplement Skip-gram model  ([Official Reference in Tensorflow](https://www.tensorflow.org/tutorials/representation/word2vec), [Paper](https://arxiv.org/pdf/1301.3781.pdf))
 - [ ] Reimplement Glove model ([Paper](https://nlp.stanford.edu/pubs/glove.pdf))
 - [ ] Try out BERT model
-- [ ] Finish reading 2 papers ([P5](https://arxiv.org/pdf/1810.04805.pdf), [P6](https://nlp.stanford.edu/pubs/glove.pdf))
-
+- [x] Finish reading 2 papers ([P5](https://arxiv.org/pdf/1810.04805.pdf), [P6](https://nlp.stanford.edu/pubs/glove.pdf))
 (Possible Choises [P](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9314/9535), [P](https://arxiv.org/pdf/1507.01127.pdf%20http://arxiv.org/abs/1507.01127.pdf), [P7](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16998/16114), [P8](http://aclweb.org/anthology/P18-1031), [P9](http://aclweb.org/anthology/D18-2029))
 
 Due 01/03/2019
