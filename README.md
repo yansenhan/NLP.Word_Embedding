@@ -9,7 +9,7 @@ This repository is for independent project on Recent Developments in Word Embedd
 Due 16/03/2019
 - [ ] Reimplement Glove model ([Paper](https://nlp.stanford.edu/pubs/glove.pdf))
 - [ ] Try out BERT model
-- [ ] Finish the Shiyanlou Experiment [Reference](https://www.shiyanlou.com/courses/684)
+- [ ] Finish the Shiyanlou Experiment ([Reference](https://www.shiyanlou.com/courses/684))
 - [ ] Finish reading 2 papers
 
 Due 09/03/2019
@@ -23,10 +23,7 @@ Due 01/03/2019
 Due 02/28/2019
 - [x] Write a project plan
 - [x] Read two papers ([P3](http://www.aclweb.org/anthology/C14-1016), [P4](http://www.aclweb.org/anthology/D14-1110))
-- [ ] ~~(Optional) Reimplement the experiments in the paper~~
-- [ ] ~~(Optional) Read a paper ([P5](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9314/9535), [P6](https://arxiv.org/pdf/1507.01127.pdf%20http://arxiv.org/abs/1507.01127.pdf))~~
 
 Due 02/23/2019
 - [x] Read two papers ([P1](http://aclweb.org/anthology/P18-1073), [P2](http://aclweb.org/anthology/P18-1041))
 - [x] Report my progress to Prof. Zhang
-- [ ] ~~(Optional) Reimplement the experiments in the paper~~
