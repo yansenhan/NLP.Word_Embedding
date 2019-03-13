@@ -9,7 +9,7 @@ This repository is for independent project on Recent Developments in Word Embedd
 Due 16/03/2019
 - [x] Reimplement Glove model ([Reference](https://github.com/GradySimon/tensorflow-glove), [Paper](https://nlp.stanford.edu/pubs/glove.pdf))
 - [ ] Try out BERT model
-- [ ] Finish the Shiyanlou Experiment ([Reference](https://www.shiyanlou.com/courses/684))
+- [x] Finish the Shiyanlou Experiment ([Reference](https://www.shiyanlou.com/courses/684))
 - [ ] Finish reading 2 papers ([P7](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16998/16114), [P8](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16455/15753))
 
 Due 09/03/2019
