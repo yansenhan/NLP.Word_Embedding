@@ -6,11 +6,15 @@ This repository is for independent project on Recent Developments in Word Embedd
 # Schedule 
 **Time Format: (DD/MM/YYYY)**
 
+Due 29/03/2019 (No Due in 23/03/2019 because of mid-term exam)
+- [ ] Implement ECM model and apply it to my Wechat
+- [ ] Try out BERT model
+- [ ] Finish reading 3 papers ()
+
 Due 16/03/2019
 - [x] Reimplement Glove model ([Reference](https://github.com/GradySimon/tensorflow-glove), [Paper](https://nlp.stanford.edu/pubs/glove.pdf))
-- [ ] Try out BERT model
 - [x] Finish the Shiyanlou Experiment ([Reference](https://www.shiyanlou.com/courses/684))
-- [ ] Finish reading 2 papers ([P7](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16998/16114), [P8](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16455/15753))
+- [x] Finish reading 2 papers ([P7](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16998/16114), [P8](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16455/15753))
 
 Due 09/03/2019
 - [x] Reimplement Skip-gram model  ([Official Reference in Tensorflow](https://www.tensorflow.org/tutorials/representation/word2vec), [Paper](https://arxiv.org/pdf/1301.3781.pdf))
