@@ -6,7 +6,7 @@ This repository is for independent project on Recent Developments in Word Embedd
 # Schedule 
 **Time Format: (DD/MM/YYYY)**
 
-Due 29/03/2019 (No Due in 23/03/2019 because of mid-term exam)
+Due 06/04/2019
 - [ ] Implement ECM model and apply it to my Wechat
 - [ ] Try out BERT model
 - [ ] Finish reading 3 papers ([P9](http://aclweb.org/anthology/P18-1205), [P10](https://acm.sustc.edu.cn/btang/pub/AAAI19_dataaug.pdf), [P11](https://arxiv.org/pdf/1901.09672.pdf)) ([P](https://arxiv.org/pdf/1901.07129.pdf))
