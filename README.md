@@ -7,9 +7,8 @@ This repository is for independent project on Recent Developments in Word Embedd
 **Time Format: (MM/DD/YYYY)**
 
 Due 04/06/2019
-- [ ] Implement ECM model and apply it to my Wechat
-- [ ] Try out BERT model
-- [ ] Finish reading 3 papers ([P9](http://aclweb.org/anthology/P18-1205), [P10](https://acm.sustc.edu.cn/btang/pub/AAAI19_dataaug.pdf), [P11](https://arxiv.org/pdf/1901.09672.pdf)) ([P](https://arxiv.org/pdf/1901.07129.pdf))
+- [x] Implement a seq-to-seq with attention model
+~~- [ ] Finish reading 3 papers ([P9](http://aclweb.org/anthology/P18-1205), [P10](https://acm.sustc.edu.cn/btang/pub/AAAI19_dataaug.pdf), [P11](https://arxiv.org/pdf/1901.09672.pdf)) ([P](https://arxiv.org/pdf/1901.07129.pdf))~~
 
 Due 03/16/2019
 - [x] Reimplement Glove model ([Reference](https://github.com/GradySimon/tensorflow-glove), [Paper](https://nlp.stanford.edu/pubs/glove.pdf))
