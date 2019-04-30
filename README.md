@@ -5,6 +5,7 @@ This repository is for independent project on Recent Developments in Word Embedd
 
 # Schedule 
 **Time Format: (MM/DD/YYYY)**
+
 Due 05/01/2019
 - [ ] Finish reading three papers ([P9](https://arxiv.org/pdf/1810.11190.pdf), [P10](https://arxiv.org/pdf/1806.04313.pdf), [P11](https://arxiv.org/pdf/1902.06423.pdf), [P12](https://arxiv.org/pdf/1812.04224.pdf))
 
