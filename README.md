@@ -5,10 +5,13 @@ This repository is for independent project on Recent Developments in Word Embedd
 
 # Schedule 
 **Time Format: (MM/DD/YYYY)**
+Due 05/01/2019
+- [] Finish reading three papers ([P9](https://arxiv.org/pdf/1810.11190.pdf), [P10](https://arxiv.org/pdf/1806.04313.pdf), [P11](https://arxiv.org/pdf/1902.06423.pdf), [P12](https://arxiv.org/pdf/1812.04224.pdf))
 
 Due 04/06/2019
 - [x] Implement a seq-to-seq with attention model
-~~- [ ] Finish reading 3 papers ([P9](http://aclweb.org/anthology/P18-1205), [P10](https://acm.sustc.edu.cn/btang/pub/AAAI19_dataaug.pdf), [P11](https://arxiv.org/pdf/1901.09672.pdf)) ([P](https://arxiv.org/pdf/1901.07129.pdf))~~
+
+~~- [ ] Finish reading 3 papers~~
 
 Due 03/16/2019
 - [x] Reimplement Glove model ([Reference](https://github.com/GradySimon/tensorflow-glove), [Paper](https://nlp.stanford.edu/pubs/glove.pdf))
