@@ -6,8 +6,11 @@ This repository is for independent project on Recent Developments in Word Embedd
 # Schedule 
 **Time Format: (MM/DD/YYYY)**
 
+Due 05/04/2019
+- [ ] Finish reading two papers ([P11](https://arxiv.org/pdf/1810.11190.pdf), [P12](https://arxiv.org/pdf/1812.04224.pdf))
+
 Due 05/01/2019
-- [ ] Finish reading three papers ([P9](https://arxiv.org/pdf/1810.11190.pdf), [P10](https://arxiv.org/pdf/1806.04313.pdf), [P11](https://arxiv.org/pdf/1902.06423.pdf), [P12](https://arxiv.org/pdf/1812.04224.pdf))
+- [x] Finish reading two papers ([P9](https://arxiv.org/pdf/1902.06423.pdf), [P10](https://arxiv.org/pdf/1806.04313.pdf), )
 
 Due 04/06/2019
 - [x] Implement a seq-to-seq with attention model
