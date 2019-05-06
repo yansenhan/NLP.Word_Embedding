@@ -18,7 +18,7 @@ Due 04/06/2019
 ~~- [ ] Finish reading 3 papers~~
 
 Due 03/16/2019
-- [x] Reimplement Glove model ([Reference](https://github.com/GradySimon/tensorflow-glove), [Paper](https://nlp.stanford.edu/pubs/glove.pdf))
+- [x] Reimplement Glove model ([Paper](https://nlp.stanford.edu/pubs/glove.pdf))
 - [x] Finish the Shiyanlou Experiment ([Reference](https://www.shiyanlou.com/courses/684))
 - [x] Finish reading 2 papers ([P7](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16998/16114), [P8](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16455/15753))
 
