@@ -1,7 +1,19 @@
 # NLP.Word_Embedding
-This repository is for independent project on Recent Developments in Word Embedding, directed by Prof. Nevin Zhang. The aim of creating this repository is to record experiments and and to schedule my plan.
+This repository is for independent project on Recent Developments in Word Embedding, directed by Prof. Nevin Zhang. My independent project is to enhance my understanding of word embedding, like skip-gram model and GloVe model, by implementing those two models. Secondly, I try out some chatbot codes and build a warm chatbot to relief upset people. Finally, I summarize some papers to answer two questions "What kind of space should the languages in?" and "What kind of operator should be used in word embedding?".
 
-**Find Papers:** [[ Tool ]](http://aipano.cse.ust.hk/p11/) created by Prof. Nevin Zhang
+# Project Details
+## PART I: The Reimplements of Classical Word Embeddings Models
+- **Data Source:** [text8.zip](http://mattmahoney.NET/dc/text8.zip)
+- **Google Implementation of GloVe Model:** [Google GloVe Model Code](https://colab.research.google.com/github/mdda/deep-learning-workshop/blob/master/notebooks/5-RNN/3-Text-Corpus-and-Embeddings.ipynb#scrollTo=LusgTEmtqTK5)
+- [Code - PART I](https://github.com/yansenhan/NLP.Word_Embedding/tree/master/PART%201): Skip-gram model and GloVe model in TensorFlow
+
+## PART II: Warm ChatBot
+- **Data Source:** [STC3](http://coai.cs.tsinghua.edu.cn/hml/challenge/dataset_description/)
+- [Code - PART II](https://github.com/yansenhan/NLP.Word_Embedding/tree/master/PART%202): Warm ChatBot. The final result is very frustrating.
+
+## PART III: Papers Review
+- [Report]()
+- [Presentation Slides]()
 
 # Schedule 
 **Time Format: (MM/DD/YYYY)**
@@ -37,3 +49,6 @@ Due 02/28/2019
 Due 02/23/2019
 - [x] Read two papers ([P1](http://aclweb.org/anthology/P18-1073), [P2](http://aclweb.org/anthology/P18-1041))
 - [x] Report my progress to Prof. Zhang
+
+# Acknowledgement
+I am very grateful to [Prof. Nevin Zhang](https://www.cse.ust.hk/faculty/lzhang/) and my friends. Thanks a lot for your support and help.
