@@ -3,9 +3,23 @@
 - tensorflow 1.13.1
 - numpy 1.16.2
 
-### How to Run the Code **(I recommend you to run the code on IDE rather than console.)**
+### How to Run the Code **(Recommend to run the code on IDE)**
+You, firstly, need to make a directory 'data' in the 'PART I', and then download the data, [text8.zip](http://mattmahoney.net/dc/text8.zip), and unzip it to the directory 'data'.
 
-There are two ways to run the codes:
+#### Tree Structure 
+```
+├─PART 1
+   ├─data
+   └─src
+       └─__pycache__
+```
+       
+#### Run on IDE
+- Firstly, you can directly run the code "all_model.py".
+- If the "all_model.py" doesn't work, then you can run "src/skip_gram.py" and "src/glove.py"
+
+#### Run on Console / Terminal
+There are two ways to run the codes on the console / terminal:
 
 - Firstly,
 ```
