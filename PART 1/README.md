@@ -14,7 +14,7 @@ You, firstly, need to make a directory 'data' in the 'PART I', and then download
        └─__pycache__
 ```
        
-#### Run on IDE
+#### Run on IDE (Spyder / PyCharm)
 - Firstly, you can directly run the code "all_model.py".
 - If the "all_model.py" doesn't work, then you can run "src/skip_gram.py" and "src/glove.py"
 
