@@ -8,5 +8,5 @@ You, firstly, need to download the dataset [STC-3](http://coai.cs.tsinghua.edu.c
 
 No matter which way you choose to run this code, you need to change the path in the code:
 ```
-path = './drive/stc-3_emotion_train.json' [Change it to where the data is in your PC / google drive]
+path = './drive/stc-3_emotion_train.json' [Change it to where the data is]
 ```
