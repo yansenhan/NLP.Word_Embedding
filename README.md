@@ -18,7 +18,7 @@ This repository is for independent project on Recent Developments in Word Embedd
 
 ## PART III: Papers Review
 - [Report]()
-- [Presentation Slides]()
+- [Presentation Slides](https://github.com/yansenhan/NLP.Word_Embedding/blob/master/Presentation_PPT.pdf)
 
 # Results
 ## GloVe Word Embeddings (PCA)
