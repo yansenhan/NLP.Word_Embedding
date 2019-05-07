@@ -1,8 +1,17 @@
-ENVIRONMENT:
-- Python 3
-- tensorflow
-- numpy
+### Environments:
+- Python 3.6
+- tensorflow 1.13.1
+- numpy 1.16.2
 
-RUN THE CODE: (I recommend you to run the code on IDE rather than console.)
-- You can directly run "all_model.py"
+### How to Run the Code: 
+
+**(I recommend you to run the code on IDE rather than console.)**
+
+There are two ways to run the codes:
+
+Firstly,
+```
+cd 
+```
+
 - If it fails, you can run "src/skipgram.py" and "src/glove.py" respectively.
