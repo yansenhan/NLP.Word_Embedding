@@ -1,7 +1,7 @@
 # NLP.Word_Embedding
 This repository is for independent project on Recent Developments in Word Embedding, directed by Prof. Nevin Zhang. My independent project is to enhance my understanding of word embedding models, like skip-gram model and GloVe model, by reimplementing those two models. Secondly, I try out some chatbot codes and build a warm chatbot to relief upset people. Finally, I summarize some papers to answer two questions "What kind of space should the languages in?" and "What kind of operator should be used in word embedding?".
 
-**[Report]() Here !**
+**[Report](https://github.com/yansenhan/NLP.Word_Embedding/blob/master/Report.pdf) Here !**
 
 # Project Details
 ## PART I: The Reimplements of Classical Word Embeddings Models
@@ -17,7 +17,7 @@ This repository is for independent project on Recent Developments in Word Embedd
 - The code is mainly from the Pytorch tutorial. I only change the dataset and make a little modification.
 
 ## PART III: Papers Review
-- [Report]()
+- [Report](https://github.com/yansenhan/NLP.Word_Embedding/blob/master/Report.pdf)
 - [Presentation Slides](https://github.com/yansenhan/NLP.Word_Embedding/blob/master/Presentation_PPT.pdf)
 
 # Results
