@@ -25,7 +25,7 @@ This repository is for independent project on Recent Developments in Word Embedd
 ![](/images/comparison.png)
 
 ## Stupid Warm ChatBot
-![](/images/conversation_chatbot.png)
+![](/images/conversation_chatbot1.png)
 
 # Schedule 
 **Time Format: (MM/DD/YYYY)**
