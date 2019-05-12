@@ -6,7 +6,7 @@ This repository is for independent project on Recent Developments in Word Embedd
 # Project Details
 ## PART I: The Reimplements of Classical Word Embeddings Models
 **Project Architecture:**
-![Project Architecture](https://raw.githubusercontent.com/yansenhan/NLP.Word_Embedding/master/images/project_architecture.png?token=AKDPALEFUQD7GYVJEGSA2NC43IJOY)
+![Project Architecture](images/project_architecture.png)
 - **Data Source:** [text8.zip](http://mattmahoney.NET/dc/text8.zip)
 - **Google Implementation of GloVe Model:** [Google GloVe Model Code](https://colab.research.google.com/github/mdda/deep-learning-workshop/blob/master/notebooks/5-RNN/3-Text-Corpus-and-Embeddings.ipynb#scrollTo=LusgTEmtqTK5)
 - [Code - PART I](https://github.com/yansenhan/NLP.Word_Embedding/tree/master/PART%201): Skip-gram model and GloVe model in TensorFlow
@@ -22,10 +22,10 @@ This repository is for independent project on Recent Developments in Word Embedd
 
 # Results
 ## GloVe Word Embeddings (PCA)
-![](https://raw.githubusercontent.com/yansenhan/NLP.Word_Embedding/master/images/comparison.png?token=AKDPALG7RFWBSKGQNMZIIRC43IITK)
+![](/images/comparison.png)
 
 ## Stupid Warm ChatBot
-![](https://raw.githubusercontent.com/yansenhan/NLP.Word_Embedding/master/images/conversation_chatbot.png?token=AKDPALAK5RCAWGQ6NAJ6FRS43IIWW)
+![](/images/conversation_chatbot.png)
 
 # Schedule 
 **Time Format: (MM/DD/YYYY)**
